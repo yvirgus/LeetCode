@@ -5,6 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- 
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Python](./Algorithms/python/merge-k-SortedLists/merge-k-SortedLists.py)|Hard|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Python](./Algorithms/python/reverseInteger/reverseInteger.py)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Python](./Algorithms/python/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.py)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Python](./Algorithms/python/addTwoNumbers/addTwoNumbers.py)|Medium|
