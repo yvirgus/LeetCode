@@ -5,6 +5,7 @@
 # *****************************************************************************************************************************
 # Problem 2
 # Title : Add Two Numbers
+# Difficulty : Medium
 # Problem statement :
 #
 # You are given two linked lists representing two non-negative numbers. 

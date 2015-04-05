@@ -5,6 +5,7 @@
 # *****************************************************************************************************************************
 # Problem 3
 # Title : Longest Substring Without Repeating Characters 
+# Difficulty : Medium
 # Problem statement :
 #
 # Given a string, find the length of the longest substring without repeating characters. 

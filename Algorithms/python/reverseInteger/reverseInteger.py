@@ -5,6 +5,7 @@
 # *****************************************************************************************************************************
 # Problem 7
 # Title : Reverse Integer
+# Difficulty : Easy
 # Problem statement :
 #
 # Reverse digits of an integer.

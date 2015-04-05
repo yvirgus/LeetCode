@@ -5,6 +5,7 @@
 # *****************************************************************************************************************************
 # Problem 23
 # Title : Merge k Sorted Lists 
+# Difficulty : Hard
 # Problem statement :
 # 
 # Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
