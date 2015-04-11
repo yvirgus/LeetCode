@@ -36,3 +36,17 @@ class Solution:
         for i in range(len(num)-1):
             if ((target - num[i]) in table) and (target != 2*num[i]):
                 return i+1, table[target - num[i]] + 1
+
+# Another solution : 
+
+class Solution:
+    # @return a tuple, (index1, index2)
+    def twoSum(self, num, target):
+        table = {}
+        
+        for i, j in enumerate(num):
+            match_num = target - j
+            if match_num in table:
+                return (table[match_num], i+1)
+                
+            table[j] = i + 1
